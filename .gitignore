@@ -201,5 +201,10 @@ spark-warehouse/
 # For SBT
 .jvmopts
 
+#My configurations
+
+main/resources
+
+
 
 # End of https://www.gitignore.io/api/sbt,scala,spark,intellij
